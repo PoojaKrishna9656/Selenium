@@ -9,6 +9,6 @@ public class Constants {
 	
 	/*Expected data*/
 	/*Login page*/
-	public static final String
+	//public static final String
 	
 }

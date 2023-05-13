@@ -2,7 +2,7 @@ package com.sevenrmartsupermarket.base;
 import org.testng.annotations.DataProvider;
 
 public class DataProviders {
-	
+	/*
 ExcelReader excelReader = new ExcelReader();
 
 	@DataProvider (name = "New User Creation")
@@ -18,4 +18,5 @@ ExcelReader excelReader = new ExcelReader();
 			"Deliveryboy data");
 			Object data[][] = excelReader-getMultidimentionalData(3, 6);
 			return data;
-	}
+	}*/
+}
