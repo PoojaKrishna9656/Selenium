@@ -49,15 +49,15 @@ public class AdminUsersPage {
 		
 	}
 	
-public void createUser(String usersName,String passWord,String UserType) {
+/*public void createUser(String usersName,String passWord,String UserType) {
 	pageUtility =new PageUtility(driver);
 	
 	ClickOnNewButton();
 	inputUserName(userName);
 	inputpassword(password);
 	pageUtility.select_ByVisibleText(userType,userTypeElement);
-	clickOnSaveButton();
+	clickOnSaveButton();*/
 	
 }
 
-}
+
